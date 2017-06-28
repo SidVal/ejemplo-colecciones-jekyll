@@ -1,8 +1,8 @@
 # Site settings
 name: Jekyll Nested Collections Example
 title: Jekyll Nested Collections Example
-description: "Demo of nesting collections in Jekyll."
-baseurl: "https://paddyforan.github.io/jekyll-nested-collections-example"
+description: "Probando colecciones en Jekyll."
+baseurl: "https://sidval.github.io/ejemplo-colecciones-jekyll/"
 
 collections:
         sections:
