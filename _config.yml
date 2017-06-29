@@ -2,7 +2,8 @@
 name: Ejemplo de colecciones en Jekyll
 title: Ejemplo de colecciones en Jekyll
 description: "Probando colecciones en Jekyll."
-baseurl: "https://sidval.github.io/ejemplo-colecciones-jekyll/"
+url: "https://sidval.github.io"
+baseurl: /ejemplo-colecciones-jekyll
 
 collections:
         sections:
